@@ -9,5 +9,5 @@ Our released models are listed in below table with average results on STS and Tr
 | SoDehghan/SBERTurk-nli-contrastive-stsb    |    84.38    |    76.71   |
 
 ## Hugging Face
-Our released models are avaibale at [Berturk for Semantic similarity](https://huggingface.co/SoDehghan/SBERTurk-nli-v2-contrastive)
+Our released models are avaibale at [BERTurk for Semantic similarity](https://huggingface.co/SoDehghan/SBERTurk-nli-v2-contrastive)
 
